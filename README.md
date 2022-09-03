@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-FM3Fp2pHEA)
 - Live Site URL: [Live site](https://69kwan69.github.io/order-summary-component/)
 
 ### What I learned
